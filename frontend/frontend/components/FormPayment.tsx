@@ -38,14 +38,14 @@ const FormPayment = () => {
 
     const buyer = {
       id: 'BY789',
-      name: 'Efe Görkem',
-      surname: 'Ümit',
+      name: 'M',
+      surname: 'T',
       gsmNumber: '+905350000000',
       email: 'john.doe@example.com',
       identityNumber: '74300864791',
       lastLoginDate: '2015-10-05 12:43:35',
       registrationDate: '2013-04-21 15:12:09',
-      registrationAddress: 'Nidakule Göztepe, Merdivenköy Mah. Bora Sok. No:1',
+      registrationAddress: 'Maltepe',
       ip: '85.34.78.112',
       city: 'Istanbul',
       country: 'Turkey',
@@ -56,7 +56,7 @@ const FormPayment = () => {
       contactName: 'Jane Doe',
       city: 'Istanbul',
       country: 'Turkey',
-      address: 'Nidakule Göztepe, Merdivenköy Mah. Bora Sok. No:1',
+      address: 'Maltepe',
       zipCode: '34742',
     };
 
@@ -64,7 +64,7 @@ const FormPayment = () => {
       contactName: 'Jane Doe',
       city: 'Istanbul',
       country: 'Turkey',
-      address: 'Nidakule Göztepe, Merdivenköy Mah. Bora Sok. No:1',
+      address: 'Maltepe',
       zipCode: '34742',
     };
 
